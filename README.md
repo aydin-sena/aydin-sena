@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200"/>
   
   # Hi there, I'm [ADINIZ SOYADINIZ]! 👋
   ### Statistics Student & Aspiring Data Analyst
@@ -77,10 +76,3 @@ An end-to-end analysis of World Bank data to categorize countries based on socio
 * **Modeling:** Segmented countries into 3 clusters using **K-Means** and modeled Life Expectancy determinants using **OLS Regression**.
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADINIZ]&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADINIZ]&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>

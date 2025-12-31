@@ -1,16 +1,16 @@
-## Hi there 👋
+İstatistik 3. sınıf öğrencisiyim.  
+Veri analizi, istatistiksel modelleme ve çıkarımsal istatistik üzerine yoğunlaşıyorum.
 
-<!--
-**aydin-sena/aydin-sena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Akademik projelerimde ve bireysel çalışmalarımda;
+- regression analysis
+- hypothesis testing
+- probability distributions
+- time series analysis
+- exploratory data analysis (EDA)
 
-Here are some ideas to get you started:
+gibi temel ve ileri istatistik konularını, gerçek veri setleri üzerinde uygulamaya özen gösteriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+R ve Python başta olmak üzere, istatistiksel hesaplama ve veri analizi araçlarını etkin şekilde kullanıyorum.  
+Çalışmalarımda sonuçların yorumlanabilirliği, varsayımların kontrolü ve metodolojik tutarlılık benim için önceliklidir.
+
+Bu profilde yer alan repolar; ders projeleri, bireysel analizler ve staj başvurularında referans olarak sunulmak üzere hazırlanmıştır.

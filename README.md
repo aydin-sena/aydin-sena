@@ -1,68 +1,86 @@
-# Sena Aydın
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200"/>
+  
+  # Hi there, I'm [ADINIZ SOYADINIZ]! 👋
+  ### Statistics Student & Aspiring Data Analyst
+  
+  <p>
+    I transform raw data into meaningful insights using Statistical Modeling and Machine Learning.
+  </p>
 
-İstatistik 3. sınıf öğrencisi | Data Analysis & Statistical Modeling
-
----
-
-## Hakkımda
-
-İstatistik alanında lisans eğitimime devam ediyorum.  
-Akademik projelerimde ve bireysel çalışmalarımda, teorik bilgiyi gerçek veri setleri üzerinde uygulamaya odaklanıyorum.
-
-Çalışmalarımda temel önceliklerim:
-- metodolojik doğruluk
-- varsayımların kontrolü
-- sonuçların istatistiksel olarak yorumlanabilir olması
-
-Bu profilde yer alan projeler, ders kapsamındaki uygulamalar ve staj başvurularında referans olarak sunulmak üzere hazırlanmıştır.
-
----
-
-## İlgi Alanları ve Çalışma Konuları
-
-- exploratory data analysis (EDA)
-- probability distributions
-- hypothesis testing
-- regression analysis
-- time series analysis
-- statistical inference
+  <a href="https://linkedin.com/in/[LINKEDIN_LINKINIZ]">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:[EMAIL_ADRESINIZ]">
+    <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</div>
 
 ---
 
-## Kullanılan Araçlar ve Teknolojiler
+## 🚀 About Me
 
-**Programlama & Analiz**
-- R
-- Python (pandas, numpy, scipy, statsmodels)
+I am a 3rd-year **Statistics** student passionate about uncovering hidden patterns in data. My academic background provides a strong foundation in probability and inference, while my projects demonstrate my ability to apply these concepts using modern tools like **Python** and **R**.
 
-**Görselleştirme**
-- ggplot2
-- matplotlib
-- seaborn
-
-**Diğer**
-- SQL (temel seviye)
-- Git & GitHub
+* 🔭 I’m currently working on **Time Series Analysis & Forecasting models.**
+* 🌱 I’m deepening my knowledge in **Bayesian Inference** and **A/B Testing.**
+* 🎯 Goal: Seeking a summer internship to apply my statistical skills in real-world business problems.
 
 ---
 
-## Repository Yapısı
+## 🛠️ Technical Toolkit
 
-Bu profildeki repolar genel olarak aşağıdaki yapıyı takip eder:
-- veri ön işleme (data cleaning)
-- exploratory analysis
-- modelleme ve testler
-- bulguların yorumlanması
+### 💻 Languages & Databases
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R_Programming-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+</p>
 
-Her repo, kullanılan yöntemleri ve elde edilen sonuçları açıklayan ayrı bir README dosyası içerir.
+### 📚 Libraries & Frameworks (Python & R)
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statsmodels-Stats-green?style=flat"/>
+  <img src="https://img.shields.io/badge/Tidyverse-R-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/Ggplot2-Data_Viz-red?style=flat"/>
+</p>
+
+### 📊 Tools & Environment
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white"/>
+</p>
 
 ---
 
-## Hedef
+## 🧠 Statistical Competencies
+*Note: Key concepts applied in my academic and personal projects.*
 
-İstatistiksel analiz ve veri odaklı problem çözme becerilerimi geliştirebileceğim,  
-öğrenmeye açık ve analitik yaklaşımı teşvik eden staj pozisyonlarında yer almak.
+| **Inference & Hypothesis** | **Modeling & Prediction** | **Multivariate Analysis** |
+| :--- | :--- | :--- |
+| • Hypothesis Testing (t-test, ANOVA) <br> • A/B Testing Design <br> • Confidence Intervals <br> • p-value Interpretation | • Linear & Logistic Regression <br> • Time Series (ARIMA/SARIMA) <br> • GLM (Generalized Linear Models) <br> • Residual Analysis | • PCA (Principal Component Analysis) <br> • K-Means Clustering <br> • Factor Analysis <br> • Dimension Reduction |
 
 ---
 
-> Not: Projelerde kullanılan veri setleri, eğitim ve uygulama amaçlıdır.
+## 🏆 Featured Projects
+
+### 🌍 [Multivariate Analysis of Global Development (WDI)](https://github.com/[KULLANICI_ADINIZ]/WDI-Global-Development-Analysis)
+**Tech:** `Python` `Statsmodels` `Scikit-Learn` `PCA` `Clustering`
+
+An end-to-end analysis of World Bank data to categorize countries based on socio-economic indicators.
+* **Data Cleaning:** Implemented **Regional Median Imputation** for missing data handling.
+* **Multivariate Analysis:** Applied **PCA** to resolve **Multicollinearity** issues (explaining 83% variance).
+* **Modeling:** Segmented countries into 3 clusters using **K-Means** and modeled Life Expectancy determinants using **OLS Regression**.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADINIZ]&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADINIZ]&layout=compact&theme=radical" height="150" alt="languages graph" />
+</div>

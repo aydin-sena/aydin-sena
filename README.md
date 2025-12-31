@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="180"/>
   
-  # Merhaba, ben [ADINIZ SOYADINIZ]! 👋
-  ### Statistics Student & Data Analyst Candidate
+  # Merhaba, ben Sena Aydın! 👋
+  ### Statistics Student 
   
-  <a href="https://linkedin.com/in/[LINKEDIN_KULLANICI_ADINIZ]">
+  <a href="https://www.linkedin.com/in/sena-ayd%C4%B1n-508565316/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:[EMAIL_ADRESINIZ]">

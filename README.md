@@ -15,21 +15,41 @@
 
 ## 🇹🇷 Hakkımda
 
-Verinin içindeki hikayeyi matematiksel modellerle ortaya çıkarmaya odaklanmış, 3. sınıf bir **İstatistik** öğrencisiyim. Teorik istatistik eğitimimi, modern veri bilimi araçlarıyla birleştirerek gerçek dünya problemlerine çözüm üretmeyi seviyorum.
+Verinin içindeki hikayeyi istatistiksel modellerle anlamlandırmaya çalışan 3. sınıf bir **İstatistik** öğrencisiyim. Teorik istatistik eğitimimi, modern veri bilimi araçlarıyla birleştirerek gerçek dünya problemleri üzerinde çalışmayı seviyorum.
 
-Şu sıralar akademik çalışmalarımın yanı sıra pratik yetkinliklerimi derinleştirmek adına şunlara odaklandım:
-* 📉 **Time Series Analysis & Forecasting:** Geleceğe yönelik tahminleme modellerinin (ARIMA, SARIMA) mantığını kavrıyor ve finansal veri setleri üzerinde denemeler yapıyorum.
-* 🧪 **A/B Testing & Bayesian Inference:** İstatistiksel karar alma süreçlerini sadece klasik yöntemlerle değil, Bayezci yaklaşımlarla da ele alarak daha sağlam hipotez testleri kurguluyorum.
+Şu sıralar akademik çalışmalarımın yanı sıra, kendimi geliştirmek ve deneyim kazanmak adına şu alanlara odaklanıyorum:
+
+📉 Zaman Serisi Analizi & Tahminleme:
+Zaman içinde değişen verilerin nasıl analiz edildiğini öğreniyor, özellikle finansal veriler üzerinde basit tahmin denemeleri yapıyorum.
+
+🧪 A/B Testleri & Karar Analizi:
+Farklı yaklaşımları karşılaştırarak hangi seçeneğin daha iyi sonuç verdiğini anlamaya ve istatistiksel karar alma süreçlerini daha iyi kavramaya çalışıyorum.
+
+🧠 Analitik Düşünme:
+Problemlere farklı açılardan bakmayı, karmaşık görünen konuları daha sade ve anlaşılır hale getirmeyi önemsiyorum.
+
+🤝 İletişim & Öğrenmeye Açıklık:
+Geri bildirim almaya açık olmayı, ekip içinde fikir paylaşmayı ve yeni şeyler öğrenerek kendimi sürekli geliştirmeyi hedefliyorum.
 
 ---
 
 ## 🇬🇧 About Me
 
-I am a 3rd-year **Statistics** student passionate about uncovering hidden patterns in data through mathematical modeling. I enjoy bridging the gap between theoretical statistics and modern data science tools to solve real-world problems.
+I am a 3rd-year Statistics student who enjoys making sense of data through statistical models. I like combining my theoretical background in statistics with modern data science tools to work on real-world problems.
 
-Currently, I am actively expanding my skillset in the following areas:
-* 📉 **Time Series Analysis & Forecasting:** Building models (ARIMA, SARIMA) to understand temporal data structures, specifically on financial datasets.
-* 🧪 **A/B Testing & Bayesian Inference:** Enhancing my understanding of statistical decision-making by incorporating Bayesian methods alongside frequentist hypothesis testing.
+Alongside my academic studies, I am currently focusing on developing my practical skills and gaining hands-on experience in the following areas:
+
+📉 Time Series Analysis & Forecasting
+I am learning how to analyze data that changes over time and experimenting with basic forecasting approaches, particularly on financial datasets.
+
+🧪 A/B Testing & Decision Analysis
+I try to better understand statistical decision-making by comparing different approaches and evaluating which option leads to more effective results.
+
+🧠 Analytical Thinking
+I value approaching problems from different perspectives and breaking down complex topics into simpler and more understandable parts.
+
+🤝 Communication & Willingness to Learn
+I am open to feedback, enjoy sharing ideas within a team, and aim to continuously improve myself by learning new things.
 
 ---
 

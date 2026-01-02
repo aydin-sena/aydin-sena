@@ -88,12 +88,11 @@ I am open to feedback, enjoy sharing ideas within a team, and aim to continuousl
 
 ## 🏆 Featured Project
 
-### 🌍 [Multivariate Analysis of Global Development (WDI)](https://github.com/[KULLANICI_ADINIZ]/WDI-Global-Development-Analysis)
+### 🌍 [Multivariate Analysis of Global Development (WDI)](https://github.com/aydin-sena/WDI-Global-Development-Analysis)
 **Tech:** `Python` `Statsmodels` `Scikit-Learn` `PCA` `Clustering`
 
-Dünya Bankası (WDI) verilerini kullanarak ülkelerin kalkınma modellerini analiz ettiğim uçtan uca bir veri projesi.
-* **Data Cleaning:** Eksik veriler için **Regional Median Imputation** tekniği uygulayarak veri kaybını önledim.
-* **Analysis:** Değişkenler arası çoklu bağlantı (Multicollinearity) sorununu **PCA** ile çözdüm.
-* **Modeling:** Ülkeleri **K-Means** ile sosyo-ekonomik segmentlere ayırdım ve Yaşam Beklentisi (Life Expectancy) üzerindeki belirleyicileri **OLS Regresyon** ile modelledim.
-
-*(An end-to-end analysis of World Bank data. Handled missing data via Regional Median Imputation, resolved Multicollinearity using PCA, and segmented countries into socio-economic clusters using K-Means.)*
+An end-to-end statistical analysis of World Bank data to explore global socio-economic dynamics and health determinants.
+* **Data Integrity:** Mitigated selection bias using **Regional Median Imputation** and stabilized noise via 10-year smoothing.
+* **Dimensionality Reduction:** Resolved **Multicollinearity** issues using **PCA**, capturing **83.6%** of the total variance in 2 components.
+* **Clustering:** Segmented countries into 3 distinct development patterns using **K-Means** on StandardScaled data.
+* **Inference:** Modeled determinants of Life Expectancy using **OLS Regression**. Applied **Log-Transformation** to GDP to ensure normality and enable **semi-elasticity** interpretation.
